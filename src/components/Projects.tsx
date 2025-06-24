@@ -38,9 +38,9 @@ const Projects = () => {
       link: "https://github.com/Akash-raj-INT/C-Programing/tree/main/C%20Project"
     },
     {
-      title: "Gold's Gym Fitness Website",
+      title: "Fitness Club",
       description: "Modern fitness website built with React and integrated with RapidAPI for dynamic content delivery.",
-      tech: ["React", "RapidAPI", "Web Development"],
+      tech: ["Html", "CSS", "JavaScript"],
       category: "Web",
       gradient: "from-purple-500 to-violet-500",
       link: "https://github.com/Akash-raj-INT/HTML-CSS/tree/main/MY%20PROJECT"
@@ -63,7 +63,7 @@ const Projects = () => {
     {
       title: "Crypto-AI-Gaming Blog",
       description: "Multi-topic blog platform covering cryptocurrency, artificial intelligence, and gaming content.",
-      tech: ["Content Management", "Web Design", "SEO"],
+      tech: ["Content Management", "Blogger", "SEO"],
       category: "Content",
       gradient: "from-indigo-500 to-purple-500",
       link: "https://lpuburgers.blogspot.com/"
@@ -71,7 +71,7 @@ const Projects = () => {
     {
       title: "Restaurant Websites",
       description: "Developed websites for LPU Burgers & Barney's Burgers with modern design and user experience.",
-      tech: ["Web Development", "UI Design", "Branding"],
+      tech: ["SEO", "UI Design", "Branding"],
       category: "Web",
       gradient: "from-teal-500 to-cyan-500",
       link: "https://lpuburgers.weebly.com/"
