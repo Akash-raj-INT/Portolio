@@ -39,16 +39,16 @@ const Projects = () => {
     },
     {
       title: "Fitness Club",
-      description: "Modern fitness website built with Django and integrated with RapidAPI for dynamic content delivery.",
-      tech: ["HTML", "CSS", "JavaScript", "Django"],
+      description: "Modern fitness website built with HTML, CSS, and JavaScript for dynamic content delivery.",
+      tech: ["HTML", "CSS", "JavaScript"],
       category: "Web",
       gradient: "from-purple-500 to-violet-500",
       link: "https://fitness-clubb-bxcv.onrender.com/index.html"
     },
     {
       title: "Coffee Chain Sales Dashboard",
-      description: "Interactive data visualization dashboard using Excel with advanced charting and analytics features.",
-      tech: ["Excel", "Data Visualization", "Analytics"],
+      description: "Interactive data visualization dashboard using Tableau with advanced charting and analytics features.",
+      tech: ["Tableau", "Data Visualization", "Analytics"],
       category: "Data",
       gradient: "from-orange-500 to-red-500",
       link: "https://github.com/Akash-raj-INT/Project"
