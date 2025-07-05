@@ -39,8 +39,8 @@ const Projects = () => {
     },
     {
       title: "Fitness Club",
-      description: "Modern fitness website built with React and integrated with RapidAPI for dynamic content delivery.",
-      tech: ["Html", "CSS", "JavaScript"],
+      description: "Modern fitness website built with Django and integrated with RapidAPI for dynamic content delivery.",
+      tech: ["HTML", "CSS", "JavaScript", "Django"],
       category: "Web",
       gradient: "from-purple-500 to-violet-500",
       link: "https://fitness-clubb-bxcv.onrender.com/index.html"
