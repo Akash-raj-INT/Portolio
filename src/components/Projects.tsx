@@ -43,7 +43,7 @@ const Projects = () => {
       tech: ["Html", "CSS", "JavaScript"],
       category: "Web",
       gradient: "from-purple-500 to-violet-500",
-      link: "https://github.com/Akash-raj-INT/HTML-CSS/tree/main/MY%20PROJECT"
+      link: "https://fitness-clubb-bxcv.onrender.com/index.html"
     },
     {
       title: "Coffee Chain Sales Dashboard",
